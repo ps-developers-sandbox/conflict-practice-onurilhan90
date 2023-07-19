@@ -4,7 +4,7 @@
 	var Mouse = {
 		x: 0,
 		y: 0,
-		pressed: false
+		pressed: true
 	};
 	exports.Mouse = Mouse;
 	
